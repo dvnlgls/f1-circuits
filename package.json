@@ -1,0 +1,17 @@
+{
+  "name": "f1-circuit",
+  "version": "1.0.0",
+  "description": "List of Formula One circuits and their details in json and sqlite db format (as of 2025)",
+  "license": "ISC",
+  "author": "Devin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "remove-accents": "^0.5.0",
+    "sqlite3": "^5.1.7"
+  }
+}
