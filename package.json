@@ -2,7 +2,7 @@
   "name": "f1-circuit",
   "version": "1.0.0",
   "description": "List of Formula One circuits and their details in json and sqlite db format (as of 2025)",
-  "license": "ISC",
+  "license": "CC BY-SA 4.0",
   "author": "Devin",
   "type": "commonjs",
   "main": "index.js",
